@@ -1,0 +1,45 @@
+body{
+    background-image: url("./back.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+#top
+{
+    margin-left: 24%;
+    color: rgb(153, 57, 57);
+    font-style:italic;
+    text-decoration:dotted;
+    margin: center;
+}
+img{
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid rgb(212, 211, 211);
+    border-top-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+    border-bottom-left-radius: 0%;
+    border-top-right-radius: 0%;
+    padding: 6px;
+}
+#ti1{
+    margin-right: 120px;
+    margin-left: 10px;
+    text-shadow: 5px solid beige;
+    font-style: italic;
+    font-size: xx-large;
+    margin-bottom: 10px;
+    color: rgb(239, 241, 241);
+}
+#ti2{
+    margin-left: 140px;
+    text-shadow: 5px solid beige;
+    font-style: italic;
+    font-size: xx-large;
+    color: rgba(252, 252, 252, 0.918);
+    margin-bottom: 10px;
+}
